@@ -8,6 +8,12 @@ public class Test1Oal06Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test1Oal06Application.class, args);
+		
+		
+		
+		/*
+		 * as;dl'as;ld'; test
+		 * */
 	}
 
 }
